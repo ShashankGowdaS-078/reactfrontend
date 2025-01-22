@@ -43,7 +43,6 @@ export default function App() {
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { useState, useEffect } from "react";
-import Login from "./login";
 import NewSignin from "./Signin";
 
 export default function App() {
